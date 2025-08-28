@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.cc6d0e4a.js",
+    "static/js/453.b21a91d2.chunk.js": "/static/js/453.b21a91d2.chunk.js",
+    "static/media/sonsukku.jpg": "/static/media/sonsukku.d20cc70e30d51b3ab0c0.jpg",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.cc6d0e4a.js.map": "/static/js/main.cc6d0e4a.js.map",
+    "453.b21a91d2.chunk.js.map": "/static/js/453.b21a91d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cc6d0e4a.js"
+  ]
+}
