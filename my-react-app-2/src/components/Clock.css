@@ -1,0 +1,38 @@
+.clock-card {
+  background: #CADCAE;
+  border: 2px solid #E1E9C9;
+  border-radius: 20px;
+  padding: 20px;
+  width: 280px;
+  text-align: center;
+  margin: 20px auto;
+  box-shadow: 0 4px 12px rgba(255, 182, 193, 0.3);
+  font-family: 'Comic Sans MS', 'Poppins', sans-serif;
+}
+
+
+.clock-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #EDA35A;
+  margin-bottom: 10px;
+}
+
+
+.clock-date {
+  font-size: 1rem;
+  color: #555;
+  background: #FBF3D5;
+  padding: 6px 12px;
+  border-radius: 12px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+
+.clock-time {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #EDA35A;
+  letter-spacing: 2px;
+}
