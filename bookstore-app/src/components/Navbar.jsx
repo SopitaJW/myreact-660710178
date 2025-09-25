@@ -34,7 +34,7 @@ const Navbar = () => {
             Books
           </NavLink>
           <NavLink 
-            to="/category/fiction" 
+            to="/category" 
             className={({ isActive }) => isActive ? 'nav-link active' : 'nav-link'}
             onClick={() => setIsMenuOpen(false)}
           >
